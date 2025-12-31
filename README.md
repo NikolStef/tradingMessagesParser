@@ -1,6 +1,6 @@
 Trading Messages Parser (C++)
 
-This project implements a zero-copy, delimiter-based parser for trading messages format <tag>=<value>|<tag>=<value>|...
+This project implements a zero-copy, delimiter-based parser for trading messages format "tag=value|tag=value|...".
 
 The parser is designed for high-performance, low-latency environments (e.g., trading systems).
 
